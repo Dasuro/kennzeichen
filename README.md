@@ -1,8 +1,8 @@
 # Kennzeichen
 
-> Listen der Kfz-Kennzeichen in Deutschland, Österreich und der Schweiz als YAML-Dateien
+> Listen der Kfz-Kennzeichen in Deutschland, Österreich und der Schweiz als JSON-Dateien (Fork von https://github.com/offene-daten/kennzeichen)
 
-Da wir auf der Suche nach Listen der Kfz-Kennzeichen in Deutschland, Österreich und der Schweiz keine *aktuellen* Listen in einem *verarbeitbaren Format* finden konnten, beschlossen wir, diese Listen initial mit Hilfe eines selbst erstellten Scrapers und manueller Nacharbeit zu generieren. Um diese Listen anderen Entwicklern ebenfalls zur Verfügung zu stellen, wurden diese im [YAML](https://de.wikipedia.org/wiki/YAML)-Format exportiert und werden in diesem Git-Repository versioniert.
+Da wir auf der Suche nach Listen der Kfz-Kennzeichen in Deutschland, Österreich und der Schweiz keine *aktuellen* Listen in einem *verarbeitbaren Format* finden konnten, beschlossen wir, diese Listen initial mit Hilfe eines selbst erstellten Scrapers und manueller Nacharbeit zu generieren. Um diese Listen anderen Entwicklern ebenfalls zur Verfügung zu stellen, wurden diese im [JSON](https://de.wikipedia.org/wiki/JSON)-Format exportiert und werden in diesem Git-Repository versioniert.
 
 ## Kennzeichen fehlt oder falsch?
 
